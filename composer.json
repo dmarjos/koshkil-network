@@ -1,6 +1,6 @@
 {
     "name": "koshkil/network",
-    "description": "The Koshkil PHP Framework - Network clients - Curl / FTP",
+    "description": "The Koshkil PHP Framework - Network client",
     "type": "library",
     "license": "GPL-3.0-or-later",
     "autoload": {
